@@ -8,7 +8,7 @@
   <div className="gb-cover-bar">
     <h1 className="gb-cover-title">
       <img
-        src="/img/snow-fox.svg"
+        src="https://raw.githubusercontent.com/laxmiree/snow-fox-record/075c3983656c15c2c50357d6d34fbb4f094ece00/static/img/snow-fox.svg"
         alt="Snow Fox"
         className="gb-cover-icon"
       />
