@@ -11,18 +11,22 @@ import GalleryGrid from '@site/src/components/GalleryGrid';
 :::info
 What I love most about this date is that it’s not a standalone story as it’s the culmination of 7 years of worth of growth. So before diving into this translation, I really, really recommend reading or brushing up on his past dates, or at least checking out the ones in this guide I put together! Each one is either directly referenced, emotionally echoed, or (at least in my opinion) thematically important to this story~
 :::
-<iframe
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSu7Yu2ufHKBnuKdv0YBfrvgPwkEFJl7XDpkRX-2sHJlI0I1tyY50GPnSYwMgVOG0MSikf5ieXmqPGL/pubhtml?gid=0&single=true"
-  style={{
-    width: '100%',
-    maxWidth: '900px',
-    height: '600px',
-    border: 'none',
-  }}
-  loading="lazy"
-/>
 
-
+<div style={{ display: 'flex', justifyContent: 'center', margin: '2rem 0' }}>
+  <iframe
+    src="https://laxmiree.github.io/video/"
+    style={{
+      width: '100%',
+      maxWidth: '420px',
+      aspectRatio: '9 / 16',
+      border: 'none',
+      borderRadius: '12px',
+    }}
+    allow="autoplay; fullscreen"
+    loading="lazy"
+  />
+</div>
+    
 * If the embed table somehow doesn’t work, here’s the google docs link you can visit:
   https://docs.google.com/document/d/1C1DGfp5p0jvqHDArj18WBNNGDPgunCdi03d--whYJ1c/edit?tab=t.0
 
