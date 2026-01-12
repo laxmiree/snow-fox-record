@@ -48,28 +48,28 @@ import GalleryCard from '@site/src/components/GalleryCard';
 <GalleryGrid>
   <GalleryCard
     href="./docs/dates"
-    image="/img/dates.jpg"
+    image="./img/dates.jpg"
     title="Courtship Logs"
     quote="Date and MQ archive and translations"
   />
 
   <GalleryCard
     href="./docs/main-story"
-    image="/img/main-story.jpg"
+    image="./img/main-story.jpg"
     title="Core File: Subject X"
     quote="Main Story archive and translations"
   />
 
   <GalleryCard
     href="./docs/asmr"
-    image="/img/asmr.jpg"
+    image="./img/asmr.jpg"
     title="Auditory Logs"
     quote="ASMR / Right Beside You archive and translations"
   />
 
   <GalleryCard
     href="./docs/cn-exclusive"
-    image="/img/cn-exclusive.jpg"
+    image="./img/cn-exclusive.jpg"
     title="Region-Locked Sightings"
     quote="CN server exclusive translations"
   />
