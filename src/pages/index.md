@@ -1,6 +1,6 @@
 <div className="gb-cover">
   <img
-    src="/img/home-cover.png"
+    src="https://github.com/laxmiree/snow-fox-record/blob/main/static/img/home-cover.png?raw=true"
     alt="Snow Fox cover"
     className="gb-cover-image"
   />
