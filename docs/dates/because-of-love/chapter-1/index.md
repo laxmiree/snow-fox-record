@@ -2,15 +2,20 @@
 
 ### [Video – Turn On CC!]
 
-<iframe
-  width="100%"
-  height="315"
-  src="https://www.youtube.com/embed/N1Gowi2WbIg"
-  title="YouTube video"
-  frameBorder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowFullScreen
-></iframe>
+<div style={{ display: 'flex', justifyContent: 'center', margin: '2rem 0' }}>
+  <iframe
+    src="https://laxmiree.github.io/video/"
+    style={{
+      width: '100%',
+      maxWidth: '420px',
+      aspectRatio: '9 / 16',
+      border: 'none',
+      borderRadius: '12px',
+    }}
+    allow="autoplay; fullscreen"
+    loading="lazy"
+  />
+</div>
 
 - YouTube link in case the embed doesn't work [Link](https://youtu.be/N1Gowi2WbIg)
 - I'd really appreciate it if you could check out the YouTube video—the dubbing and BGM choice are just perfect accompaniment to the tears. And no need to head back to Tumblr for the T/N this time since I've added them directly into the video!
