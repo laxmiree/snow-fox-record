@@ -47,35 +47,35 @@ import GalleryCard from '@site/src/components/GalleryCard';
 
 <GalleryGrid>
   <GalleryCard
-    href="/docs/dates"
+    href="/snow-fox-record/docs/dates"
     image="https://github.com/laxmiree/snow-fox-record/blob/main/static/img/dates.jpg?raw=true"
     title="Courtship Logs"
     quote="Date and MQ archive and translations"
   />
 
   <GalleryCard
-    href="/docs/main-story"
+    href="/snow-fox-record/docs/main-story"
     image="https://github.com/laxmiree/snow-fox-record/blob/main/static/img/main-story.jpg?raw=true"
     title="Core File: Subject X"
     quote="Main Story archive and translations"
   />
 
   <GalleryCard
-    href="./docs/asmr"
+    href="/snow-fox-record/docs/asmr"
     image="https://github.com/laxmiree/snow-fox-record/blob/main/static/img/asmr.jpg?raw=true"
     title="Auditory Logs"
     quote="ASMR / Right Beside You archive and translations"
   />
 
   <GalleryCard
-    href="/docs/cn-exclusive"
+    href="/snow-fox-record/docs/cn-exclusive"
     image="https://github.com/laxmiree/snow-fox-record/blob/main/static/img/cn-exclusive.jpg?raw=true"
     title="Region-Locked Sightings"
     quote="CN server exclusive translations"
   />
 
   <GalleryCard
-    href="/docs/misc"
+    href="/snow-fox-record/docs/misc"
     image="https://github.com/laxmiree/snow-fox-record/blob/main/static/img/misc.jpg?raw=true"
     title="Unclassified Fragments"
     quote="Miscellaneous archive and translations"
