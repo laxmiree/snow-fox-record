@@ -1,4 +1,3 @@
-<img width="1072" height="948" alt="image" src="https://github.com/user-attachments/assets/eeee83e0-6a70-4aca-9927-1f2230c577b1" />---
 title: "[EN] Because of Love Mind's Quest (因为爱情)"
 tags:
   - 2024–2025
@@ -52,14 +51,14 @@ What I love most about this date is that it’s not a standalone story as it’s
 
   <GalleryCard
     title="Part 2"
-    quote="Contradictions surface, and resolve is tested."
+    quote="Insert Quote."
     image="./part-2/img/cover.webp"
     href="./part-2/"
   />
 
   <GalleryCard
     title="Part 3"
-    quote="Where love becomes a conscious choice."
+    quote="Insert Quote."
     image="./part-3/img/cover.webp"
     href="./part-3/"
   />
