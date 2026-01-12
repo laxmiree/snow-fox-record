@@ -47,15 +47,15 @@ import GalleryCard from '@site/src/components/GalleryCard';
 
 <GalleryGrid>
   <GalleryCard
-    href="./docs/dates"
-    image="./img/dates.jpg"
+    href="/docs/dates"
+    image="https://github.com/laxmiree/snow-fox-record/blob/main/static/img/dates.jpg?raw=true"
     title="Courtship Logs"
     quote="Date and MQ archive and translations"
   />
 
   <GalleryCard
-    href="./docs/main-story"
-    image="./img/main-story.jpg"
+    href="/docs/main-story"
+    image="https://github.com/laxmiree/snow-fox-record/blob/main/static/img/main-story.jpg?raw=true"
     title="Core File: Subject X"
     quote="Main Story archive and translations"
   />
