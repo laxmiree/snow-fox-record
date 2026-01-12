@@ -4,6 +4,9 @@ sidebar_position: -1
 
 # Navigation
 
+import GalleryGrid from '@site/src/components/GalleryGrid';
+import GalleryCard from '@site/src/components/GalleryCard';
+
 <GalleryGrid>
   <GalleryCard
     title="[TL] Because of Love Mind's Quest (因为爱情)"
