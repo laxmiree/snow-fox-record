@@ -62,21 +62,21 @@ import GalleryCard from '@site/src/components/GalleryCard';
 
   <GalleryCard
     href="./docs/asmr"
-    image="./img/asmr.jpg"
+    image="https://github.com/laxmiree/snow-fox-record/blob/main/static/img/asmr.jpg?raw=true"
     title="Auditory Logs"
     quote="ASMR / Right Beside You archive and translations"
   />
 
   <GalleryCard
-    href="./docs/cn-exclusive"
-    image="./img/cn-exclusive.jpg"
+    href="/docs/cn-exclusive"
+    image="https://github.com/laxmiree/snow-fox-record/blob/main/static/img/cn-exclusive.jpg?raw=true"
     title="Region-Locked Sightings"
     quote="CN server exclusive translations"
   />
 
   <GalleryCard
-    href="./docs/misc"
-    image="/img/misc.jpg"
+    href="/docs/misc"
+    image="https://github.com/laxmiree/snow-fox-record/blob/main/static/img/misc.jpg?raw=true"
     title="Unclassified Fragments"
     quote="Miscellaneous archive and translations"
   />
