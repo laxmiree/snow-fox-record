@@ -45,7 +45,7 @@ What I love most about this date is that it’s not a standalone story as it’s
 <GalleryGrid>
   <GalleryCard
     title="Part 1"
-    quote="*Don't be stingy in expressing your love to your partner.*"
+    quote="Don't be stingy in expressing your love to your partner."
     image="https://file.notion.so/f/f/263178eb-102d-819c-b0df-000335d01a5e/d294c93f-35b3-4042-a9f1-5fc9fb31fce2/1000156173.jpg?table=block&id=22e178eb-102d-80ca-b64b-c46758feb204&spaceId=263178eb-102d-819c-b0df-000335d01a5e&expirationTimestamp=1768269600000&signature=NofvNknmFl3Ra-nR9o-nNFSC7khd1wz3evaYwpFhfhA&downloadName=1000156173.jpg"
     href="./chapter-1/"
   />
