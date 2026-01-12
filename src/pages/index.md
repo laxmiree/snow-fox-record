@@ -47,35 +47,35 @@ import GalleryCard from '@site/src/components/GalleryCard';
 
 <GalleryGrid>
   <GalleryCard
-    href="/docs/dates"
+    href="./docs/dates"
     image="/img/dates.jpg"
     title="Courtship Logs"
     quote="Date and MQ archive and translations"
   />
 
   <GalleryCard
-    href="/docs/main-story"
+    href="./docs/main-story"
     image="/img/main-story.jpg"
     title="Core File: Subject X"
     quote="Main Story archive and translations"
   />
 
   <GalleryCard
-    href="/docs/asmr"
+    href="./docs/asmr"
     image="/img/asmr.jpg"
     title="Auditory Logs"
     quote="ASMR / Right Beside You archive and translations"
   />
 
   <GalleryCard
-    href="/docs/cn-exclusive"
+    href="./docs/cn-exclusive"
     image="/img/cn-exclusive.jpg"
     title="Region-Locked Sightings"
     quote="CN server exclusive translations"
   />
 
   <GalleryCard
-    href="/docs/misc"
+    href="./docs/misc"
     image="/img/misc.jpg"
     title="Unclassified Fragments"
     quote="Miscellaneous archive and translations"
